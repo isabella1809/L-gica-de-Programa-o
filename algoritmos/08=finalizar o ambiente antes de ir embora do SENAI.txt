@@ -1,0 +1,12 @@
+passo 1= desligar o notebook
+passo 2= pegar o paninho 
+passo 3= limpar o notebook
+passo 4= fechar o notebook
+passo 5= limpar o mouse
+passo 6= guardar o paninho 
+passo 7= esperar chamar o seu numero de mouse 
+passo 8= guardar o mouse
+passo 9= guardar o  notebook
+passo 10= arrumar os capos 
+passo 11= arrumar as cadeiras 
+passo 12= vai embora
