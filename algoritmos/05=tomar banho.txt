@@ -1,0 +1,15 @@
+passo 1=  pegar a toalha 
+passo 2=  entrar no banheiro
+passo 3=  acender a luz 
+passo 4=  colocar a toalha no suporte
+passo 5=  entrar no box
+passo 6=  ligar o chuveiro
+passo 7=  se enxaguar o corpo
+passo 8=  pegar o sabonete 
+passo 9=  passar o sabonete no corpo  
+passo 10= enxaguar o corpo  
+passo 11= pegar a toalha 
+passo 12= se secar
+passo 13= sair do box 
+passo 14= deligar a luz 
+passo 15= sair do banheiro

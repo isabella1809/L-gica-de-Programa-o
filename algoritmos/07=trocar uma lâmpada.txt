@@ -1,0 +1,9 @@
+passo 1=  deliga a luz 
+passo 2=  pega uma escada 
+passo 3=  sobe na escada 
+passo 4=  rosqueia a lâmpada 
+passo 5=  tira a lâmpada
+passo 6=  pega a lâmpada nova 
+passo 7=  rosqueia a lâmpada nova
+passo 8=  desce da escada 
+passo 9=  acende a luz
