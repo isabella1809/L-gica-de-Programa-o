@@ -117,5 +117,5 @@ void loop()
             Serial.println("opcao invalida!!!");
       desenhapontinhos();
     } 
-  }while(escolhadaopcao != 0);
+  }while(escolhadaopcao != 1);
 }
